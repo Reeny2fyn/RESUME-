@@ -1,2 +1,2 @@
 # RESUME-
-my catstone assignment on web development.
+my capstone assignment on web development.
